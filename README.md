@@ -1,5 +1,9 @@
 # ✨ Hi! I'm natsusa ✨.
 🖥️ I'm a full-stack developer, who have 3 years experience. 🖥️
+![natsusa profile](https://komarev.com/ghpvc/?username=natsusaa&color=blueviolet)
+
+# About me
+I'm almost 18 years old a junior developer. I love coding and watching anime or game videos. I have 3 years experience and I'm doing this for fun. I'm currently working a simple mobile game, I hope someday I can publish it. Also I'm planning learn Python, React Native and Electron.JS
 
 ## 🌐 Techs & Langs🌐
 #### Langs
@@ -8,6 +12,7 @@
 ![dotNET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![reactrouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![material-ui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)  ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Social
+If you want talk to me, you can contact me on discord.
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/927243761346560090)
 
 
