@@ -1,5 +1,5 @@
 # ✨ Hi! I'm natsusa ✨.
-## 🖥️ I'm a full-stack developer, who have 3 years experience. 🖥️
+🖥️ I'm a full-stack developer, who have 3 years experience. 🖥️
 
 ## 🌐 Techs & Langs🌐
 #### Langs
