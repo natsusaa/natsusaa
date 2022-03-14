@@ -15,6 +15,8 @@ I'm almost 18 years old a junior developer. I love coding and watching anime or 
 ### Social
 If you want talk to me, you can contact me on discord.
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/927243761346560090)](https://discord.com/users/927243761346560090)
+
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/927243761346560090)
 
 
