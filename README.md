@@ -4,7 +4,7 @@
 ![natsusa profile](https://komarev.com/ghpvc/?username=natsusaa&color=blueviolet)
 
 # About me
-I'm almost 18 years old a junior developer. I love coding and watching anime or game videos. I have 3 years experience and I'm doing this for fun. Also I'm planning learn Python, React Native and Electron.JS
+I'm 18 years old a junior developer. I love coding and watching anime or game videos. I have 3 years experience and I'm doing this for fun. Also I'm planning learn Python, React Native and Electron.JS
 
 ## 🌐 Techs & Langs🌐
 #### Langs
